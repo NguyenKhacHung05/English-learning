@@ -1,0 +1,160 @@
+[03-Oct-2024 13:04:00 UTC] PHP Notice:  Undefined variable: getTiktok in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 16
+[03-Oct-2024 13:04:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 16
+[03-Oct-2024 15:29:38 UTC] PHP Notice:  Undefined variable: getTiktok in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 24
+[03-Oct-2024 15:29:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 24
+[03-Oct-2024 15:30:20 UTC] PHP Warning:  include(./view/tiktok.php?start=0): failed to open stream: No such file or directory in /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php on line 41
+[03-Oct-2024 15:30:20 UTC] PHP Warning:  include(./view/tiktok.php?start=0): failed to open stream: No such file or directory in /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php on line 41
+[03-Oct-2024 15:30:20 UTC] PHP Warning:  include(): Failed opening './view/tiktok.php?start=0' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php on line 41
+[03-Oct-2024 15:30:21 UTC] PHP Warning:  include(./view/tiktok.php?start=0): failed to open stream: No such file or directory in /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php on line 41
+[03-Oct-2024 15:30:21 UTC] PHP Warning:  include(./view/tiktok.php?start=0): failed to open stream: No such file or directory in /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php on line 41
+[03-Oct-2024 15:30:21 UTC] PHP Warning:  include(): Failed opening './view/tiktok.php?start=0' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php on line 41
+[03-Oct-2024 15:32:26 UTC] PHP Notice:  Undefined variable: getTiktok in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 29
+[03-Oct-2024 15:32:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 29
+[03-Oct-2024 15:33:03 UTC] PHP Notice:  Undefined variable: getTiktok in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 29
+[03-Oct-2024 15:33:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 29
+[03-Oct-2024 15:49:10 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 14
+[03-Oct-2024 15:49:45 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 14
+[03-Oct-2024 15:49:57 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 14
+[03-Oct-2024 16:07:34 UTC] PHP Notice:  Undefined variable: getTiktok in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 59
+[03-Oct-2024 16:07:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 59
+[03-Oct-2024 16:07:38 UTC] PHP Notice:  Undefined variable: getTiktok in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 59
+[03-Oct-2024 16:07:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 59
+[03-Oct-2024 16:07:44 UTC] PHP Notice:  Undefined variable: getTiktok in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 59
+[03-Oct-2024 16:07:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 59
+[13-Oct-2024 15:19:35 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:19:35 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:19:35 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:19:35 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:19:35 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:19:35 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:19:35 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:19:35 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:19:35 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:19:35 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:20:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'words.topic_name' in 'field list' in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php:27
+Stack trace:
+#0 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(27): PDOStatement->execute(Array)
+#1 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(32): DB->query('SELECT words.wo...')
+#2 /home/hwshopid/ielts.hwshop.id.vn/admin/model/vocabularies.php(57): DB->getAll('SELECT words.wo...')
+#3 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/vocabulary_db.php(12): Vocabularies->Tiktok('34')
+#4 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php(5): include('/home/hwshopid/...')
+#5 /home/hwshopid/ielts.hwshop.id.vn/admin/index.php(2): include('/home/hwshopid/...')
+#6 {main}
+  thrown in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php on line 27
+[13-Oct-2024 15:20:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'words.topic_name' in 'field list' in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php:27
+Stack trace:
+#0 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(27): PDOStatement->execute(Array)
+#1 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(32): DB->query('SELECT words.wo...')
+#2 /home/hwshopid/ielts.hwshop.id.vn/admin/model/vocabularies.php(57): DB->getAll('SELECT words.wo...')
+#3 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/vocabulary_db.php(12): Vocabularies->Tiktok('34')
+#4 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php(5): include('/home/hwshopid/...')
+#5 /home/hwshopid/ielts.hwshop.id.vn/admin/index.php(2): include('/home/hwshopid/...')
+#6 {main}
+  thrown in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php on line 27
+[13-Oct-2024 15:21:22 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:21:22 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:21:22 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:21:22 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:21:22 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:21:22 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:21:22 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:21:22 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:21:22 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:21:22 UTC] PHP Notice:  Undefined index: topic_name in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 64
+[13-Oct-2024 15:25:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'words.topic_name' in 'field list' in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php:27
+Stack trace:
+#0 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(27): PDOStatement->execute(Array)
+#1 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(32): DB->query('SELECT words.wo...')
+#2 /home/hwshopid/ielts.hwshop.id.vn/admin/model/vocabularies.php(58): DB->getAll('SELECT words.wo...')
+#3 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/vocabulary_db.php(12): Vocabularies->Tiktok('34')
+#4 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php(5): include('/home/hwshopid/...')
+#5 /home/hwshopid/ielts.hwshop.id.vn/admin/index.php(2): include('/home/hwshopid/...')
+#6 {main}
+  thrown in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php on line 27
+[13-Oct-2024 15:25:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'words.topic_name' in 'field list' in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php:27
+Stack trace:
+#0 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(27): PDOStatement->execute(Array)
+#1 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(32): DB->query('SELECT words.wo...')
+#2 /home/hwshopid/ielts.hwshop.id.vn/admin/model/vocabularies.php(58): DB->getAll('SELECT words.wo...')
+#3 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/vocabulary_db.php(12): Vocabularies->Tiktok('34')
+#4 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php(5): include('/home/hwshopid/...')
+#5 /home/hwshopid/ielts.hwshop.id.vn/admin/index.php(2): include('/home/hwshopid/...')
+#6 {main}
+  thrown in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php on line 27
+[13-Oct-2024 15:29:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php:27
+Stack trace:
+#0 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(27): PDOStatement->execute(Array)
+#1 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(32): DB->query('SELECT words.wo...')
+#2 /home/hwshopid/ielts.hwshop.id.vn/admin/model/vocabularies.php(58): DB->getAll('SELECT words.wo...')
+#3 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/vocabulary_db.php(12): Vocabularies->Tiktok('')
+#4 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php(5): include('/home/hwshopid/...')
+#5 /home/hwshopid/ielts.hwshop.id.vn/admin/index.php(2): include('/home/hwshopid/...')
+#6 {main}
+  thrown in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php on line 27
+[13-Oct-2024 15:29:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php:27
+Stack trace:
+#0 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(27): PDOStatement->execute(Array)
+#1 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(32): DB->query('SELECT words.wo...')
+#2 /home/hwshopid/ielts.hwshop.id.vn/admin/model/vocabularies.php(58): DB->getAll('SELECT words.wo...')
+#3 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/vocabulary_db.php(12): Vocabularies->Tiktok('')
+#4 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php(5): include('/home/hwshopid/...')
+#5 /home/hwshopid/ielts.hwshop.id.vn/admin/index.php(2): include('/home/hwshopid/...')
+#6 {main}
+  thrown in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php on line 27
+[13-Oct-2024 15:29:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php:27
+Stack trace:
+#0 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(27): PDOStatement->execute(Array)
+#1 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(32): DB->query('SELECT words.wo...')
+#2 /home/hwshopid/ielts.hwshop.id.vn/admin/model/vocabularies.php(58): DB->getAll('SELECT words.wo...')
+#3 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/vocabulary_db.php(12): Vocabularies->Tiktok('')
+#4 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php(5): include('/home/hwshopid/...')
+#5 /home/hwshopid/ielts.hwshop.id.vn/admin/index.php(2): include('/home/hwshopid/...')
+#6 {main}
+  thrown in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php on line 27
+[13-Oct-2024 15:29:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php:27
+Stack trace:
+#0 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(27): PDOStatement->execute(Array)
+#1 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(32): DB->query('SELECT words.wo...')
+#2 /home/hwshopid/ielts.hwshop.id.vn/admin/model/vocabularies.php(58): DB->getAll('SELECT words.wo...')
+#3 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/vocabulary_db.php(12): Vocabularies->Tiktok('')
+#4 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php(5): include('/home/hwshopid/...')
+#5 /home/hwshopid/ielts.hwshop.id.vn/admin/index.php(2): include('/home/hwshopid/...')
+#6 {main}
+  thrown in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php on line 27
+[13-Oct-2024 15:29:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php:27
+Stack trace:
+#0 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(27): PDOStatement->execute(Array)
+#1 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(32): DB->query('SELECT words.wo...')
+#2 /home/hwshopid/ielts.hwshop.id.vn/admin/model/vocabularies.php(58): DB->getAll('SELECT words.wo...')
+#3 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/vocabulary_db.php(12): Vocabularies->Tiktok('')
+#4 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php(5): include('/home/hwshopid/...')
+#5 /home/hwshopid/ielts.hwshop.id.vn/admin/index.php(2): include('/home/hwshopid/...')
+#6 {main}
+  thrown in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php on line 27
+[13-Oct-2024 15:31:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php:27
+Stack trace:
+#0 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(27): PDOStatement->execute(Array)
+#1 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(32): DB->query('SELECT words.wo...')
+#2 /home/hwshopid/ielts.hwshop.id.vn/admin/model/vocabularies.php(58): DB->getAll('SELECT words.wo...')
+#3 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/vocabulary_db.php(12): Vocabularies->Tiktok('')
+#4 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php(5): include('/home/hwshopid/...')
+#5 /home/hwshopid/ielts.hwshop.id.vn/admin/index.php(2): include('/home/hwshopid/...')
+#6 {main}
+  thrown in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php on line 27
+[13-Oct-2024 15:32:53 UTC] PHP Notice:  Undefined offset: 0 in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 52
+[13-Oct-2024 15:32:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 52
+[13-Oct-2024 17:31:29 UTC] PHP Warning:  include(../block/result.php): failed to open stream: No such file or directory in /home/hwshopid/ielts.hwshop.id.vn/admin/view/add_topic.php on line 72
+[13-Oct-2024 17:31:29 UTC] PHP Warning:  include(../block/result.php): failed to open stream: No such file or directory in /home/hwshopid/ielts.hwshop.id.vn/admin/view/add_topic.php on line 72
+[13-Oct-2024 17:31:29 UTC] PHP Warning:  include(): Failed opening '../block/result.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hwshopid/ielts.hwshop.id.vn/admin/view/add_topic.php on line 72
+[22-Oct-2024 15:35:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php:27
+Stack trace:
+#0 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(27): PDOStatement->execute(Array)
+#1 /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php(32): DB->query('SELECT words.wo...')
+#2 /home/hwshopid/ielts.hwshop.id.vn/admin/model/vocabularies.php(58): DB->getAll('SELECT words.wo...')
+#3 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/vocabulary_db.php(12): Vocabularies->Tiktok('')
+#4 /home/hwshopid/ielts.hwshop.id.vn/admin/controller/index.php(5): include('/home/hwshopid/...')
+#5 /home/hwshopid/ielts.hwshop.id.vn/admin/index.php(2): include('/home/hwshopid/...')
+#6 {main}
+  thrown in /home/hwshopid/ielts.hwshop.id.vn/admin/model/connectdb.php on line 27
+[23-Nov-2024 13:16:36 UTC] PHP Notice:  Undefined offset: 0 in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 52
+[23-Nov-2024 13:16:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hwshopid/ielts.hwshop.id.vn/admin/view/tiktok.php on line 52
