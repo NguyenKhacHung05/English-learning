@@ -13,7 +13,7 @@ Dự án cá nhân giúp người dùng học từ vựng tiếng Anh thông qua
 - **Back-end:** PHP, MySQL  
 
 ## 🎯 Chức năng chính  
-- CRUD **từ vựng, chủ đề, câu hỏi**  
+- CRUD **từ vựng, chủ đề, câu**  
 - Hỗ trợ **âm thanh** khi học từ vựng  
 - Tìm kiếm từ vựng nhanh chóng  
 - **Game nhỏ** để kiểm tra từ vựng và câu hỏi  
